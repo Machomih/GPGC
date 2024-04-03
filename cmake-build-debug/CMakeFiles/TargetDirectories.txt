@@ -1,0 +1,6 @@
+/home/mihail/Desktop/Facultate/An3.2/GPGC/cmake-build-debug/CMakeFiles/T1.dir
+/home/mihail/Desktop/Facultate/An3.2/GPGC/cmake-build-debug/CMakeFiles/T2.dir
+/home/mihail/Desktop/Facultate/An3.2/GPGC/cmake-build-debug/CMakeFiles/T3.dir
+/home/mihail/Desktop/Facultate/An3.2/GPGC/cmake-build-debug/CMakeFiles/T32.dir
+/home/mihail/Desktop/Facultate/An3.2/GPGC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mihail/Desktop/Facultate/An3.2/GPGC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

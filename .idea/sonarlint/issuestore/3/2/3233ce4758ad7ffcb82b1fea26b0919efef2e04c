@@ -1,0 +1,49 @@
+
+x	cpp:S5276*"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(Ÿ“ïÓıÿÿÿÿ8¢ã¤—ã1
+x	cpp:S5276*"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(Ÿ“ïÓıÿÿÿÿ8£ã¤—ã1
+x	cpp:S52761"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(ÃÅİ‡ÿÿÿÿÿ8£ã¤—ã1
+x	cpp:S52761"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(ÃÅİ‡ÿÿÿÿÿ8£ã¤—ã1
+s	cpp:S5276;"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(­“²Ç8£ã¤—ã1
+s	cpp:S5276;"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(­“²Ç8£ã¤—ã1
+x	cpp:S5276B"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(Ÿ“ïÓıÿÿÿÿ8£ã¤—ã1
+x	cpp:S5276B"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(Ÿ“ïÓıÿÿÿÿ8£ã¤—ã1
+x	cpp:S5276R"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(ÃÅİ‡ÿÿÿÿÿ8»—»—ã1
+x	cpp:S5276R"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(ÃÅİ‡ÿÿÿÿÿ8»—»—ã1
+x	cpp:S5276Y"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(Ÿ“ïÓıÿÿÿÿ8£ã¤—ã1
+x	cpp:S5276Y"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(Ÿ“ïÓıÿÿÿÿ8£ã¤—ã1
+s	cpp:S5276d"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(éÉáî8¹’¼˜ã1
+s	cpp:S5276d"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(éÉáî8º’¼˜ã1
+x	cpp:S5276k"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(Ÿ“ïÓıÿÿÿÿ8ûè³˜ã1
+x	cpp:S5276k"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(Ÿ“ïÓıÿÿÿÿ8ûè³˜ã1
+s	cpp:S5276s"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(éÉáî8èíâ˜ã1
+s	cpp:S5276s"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(éÉáî8éíâ˜ã1
+x	cpp:S5276z"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(Ÿ“ïÓıÿÿÿÿ8ÒÁĞ˜ã1
+x	cpp:S5276z"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(Ÿ“ïÓıÿÿÿÿ8ÒÁĞ˜ã1
+t	cpp:S5276ƒ"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(éÉáî8Õü˜™ã1
+t	cpp:S5276ƒ"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(éÉáî8Õü˜™ã1
+y	cpp:S5276Š"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(Ÿ“ïÓıÿÿÿÿ8Ôü˜™ã1
+y	cpp:S5276Š"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(Ÿ“ïÓıÿÿÿÿ8Õü˜™ã1
+t	cpp:S5276’"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(éÉáî8Ç½ œã1
+t	cpp:S5276’"Wimplicit conversion loses floating-point precision: 'double' to 'GLfloat' (aka 'float')(éÉáî8Ê½ œã1
+L	cpp:S1659"0Define each identifier in a dedicated statement.(Î³À8Ãã¤—ã1
+Q	cpp:S1659"0Define each identifier in a dedicated statement.(ı­€¨ùÿÿÿÿ8Ãã¤—ã1
+?	cpp:S2193"#Do not use a counter of type float.(¤Ÿ¥û8Èã¤—ã1
+?	cpp:S2193,"#Do not use a counter of type float.(¤Ÿ¥û8Êã¤—ã1
+?	cpp:S21936"#Do not use a counter of type float.(¤Ÿ¥û8Ëã¤—ã1
+L	cpp:S1659"0Define each identifier in a dedicated statement.(ÁàÊ8Îã¤—ã1
+Q	cpp:S1659-"0Define each identifier in a dedicated statement.(ÿô—³şÿÿÿÿ8Öã¤—ã1
+L	cpp:S16597"0Define each identifier in a dedicated statement.(ö†Û·8Ûã¤—ã1
+D	cpp:S2193I"#Do not use a counter of type float.(¯ø®Êúÿÿÿÿ8àã¤—ã1
+?	cpp:S2193]"#Do not use a counter of type float.(Òˆå³8Å³Ÿ˜ã1
+?	cpp:S2193o"#Do not use a counter of type float.(³¹¡µ8æ¹µ˜ã1
+?	cpp:S2193~"#Do not use a counter of type float.(Œª¢8£ÂĞ˜ã1
+E	cpp:S2193"#Do not use a counter of type float.(©¨ŠÊüÿÿÿÿ8ªı˜™ã1
+=	cpp:S1905¿"Remove this redundant cast.(¤®ê¦ÿÿÿÿÿ8ğ¹µ˜ã1
+=	cpp:S1905¿"Remove this redundant cast.(¤®ê¦ÿÿÿÿÿ8ğ¹µ˜ã1
+u	cpp:S1172Â"SRemove the unused parameter "x", make it unnamed, or declare it "[[maybe_unused]]".(àé•†ıÿÿÿÿ8ğ¹µ˜ã1
+u	cpp:S1172Â"SRemove the unused parameter "y", make it unnamed, or declare it "[[maybe_unused]]".(àé•†ıÿÿÿÿ8ñ¹µ˜ã1
+{	cpp:S1186É"YAdd a nested comment explaining why this method is empty, or complete the implementation.(‰¿„‡úÿÿÿÿ8êã¤—ã1
+z	cpp:S1172É"XRemove the unused parameter "button", make it unnamed, or declare it "[[maybe_unused]]".(‰¿„‡úÿÿÿÿ8ò¹µ˜ã1
+y	cpp:S1172É"WRemove the unused parameter "state", make it unnamed, or declare it "[[maybe_unused]]".(‰¿„‡úÿÿÿÿ8ò¹µ˜ã1
+u	cpp:S1172É"SRemove the unused parameter "x", make it unnamed, or declare it "[[maybe_unused]]".(‰¿„‡úÿÿÿÿ8ò¹µ˜ã1
+u	cpp:S1172É"SRemove the unused parameter "y", make it unnamed, or declare it "[[maybe_unused]]".(‰¿„‡úÿÿÿÿ8ò¹µ˜ã1

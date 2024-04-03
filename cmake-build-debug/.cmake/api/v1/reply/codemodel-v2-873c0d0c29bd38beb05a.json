@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GPGC",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "T1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-T1-Debug-e8a42f477e654137da60.json",
+					"name" : "T1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "T2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-T2-Debug-5976a11f7951d5084856.json",
+					"name" : "T2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "T3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-T3-Debug-07ed6680955a33d91e4b.json",
+					"name" : "T3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "T32::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-T32-Debug-67cb714e874a11a79cb5.json",
+					"name" : "T32",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mihail/Desktop/Facultate/An3.2/GPGC/cmake-build-debug",
+		"source" : "/home/mihail/Desktop/Facultate/An3.2/GPGC"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
