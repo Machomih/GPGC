@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "T3"
+			"path" : "T4"
 		}
 	],
 	"backtrace" : 1,
@@ -25,19 +25,19 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 8,
+				"line" : 10,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 21,
+				"line" : 25,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 22,
+				"line" : 26,
 				"parent" : 0
 			}
 		]
@@ -66,7 +66,7 @@
 			]
 		}
 	],
-	"id" : "T3::@6890427a1f51a3e7e1df",
+	"id" : "T4::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -102,8 +102,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "T3",
-	"nameOnDisk" : "T3",
+	"name" : "T4",
+	"nameOnDisk" : "T4",
 	"paths" : 
 	{
 		"build" : ".",
@@ -124,7 +124,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Lab3/Lab3.cpp",
+			"path" : "Lab4/Lab4.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
